@@ -1,9 +1,9 @@
-# 🚀 Real-Time Sign Language Detector
+# 🚀 Real-Time Sign Language Interpreter
 
-This project is a **Real-Time Sign Language Detector** that uses deep learning to recognize hand gestures and translate them into text. The model is trained to identify different sign language gestures using a neural network and is deployed to provide real-time predictions. ✋🤖
+This project is a **Real-Time Sign Language Interpreter** that uses deep learning to recognize hand gestures and translate them into text. The model is trained to identify different sign language gestures using a neural network and is deployed to provide real-time predictions. ✋🤖
 
 ## ✨ Features
-- 🎥 **Real-time Gesture Detection**: Uses a webcam to capture hand movements.
+- 🎥 **Real-time Gesture Detection & Interpretations**: Uses a webcam to capture hand movements.
 - 🧠 **Deep Learning Model**: Pre-trained `action.h5` model for recognizing gestures.
 - 🖥️ **Python & OpenCV-based**: Utilizes OpenCV for real-time video processing.
 - 🔥 **TensorFlow/Keras Implementation**: Uses deep learning to classify sign language gestures.
