@@ -18,7 +18,7 @@ Ensure you have the following installed:
 - 📸 OpenCV
 - 🤖 TensorFlow
 - 🔢 NumPy
-- 🖐️ MediaPipe (for hand tracking, if applicable)
+- 🖐️ MediaPipe
 
 ### 🚀 Setup
 1. Clone the repository:
